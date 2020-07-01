@@ -1,0 +1,3 @@
+[submodule "spring-cloud/piggymetrics"]
+	path = spring-cloud/piggymetrics
+	url = https://github.com/Azure-Samples/piggymetrics
